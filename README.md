@@ -1,2 +1,1 @@
-Build with libGDX!
-[Screen Recording 2024-06-30 182126.gif](..%2F..%2FDownloads%2FScreen%20Recording%202024-06-30%20182126.gif)
+https://github.com/fre-git/Top-Down-DriftGame-Prototype/assets/76962368/d14c89b7-7705-421e-900d-3340a9d68f7e
